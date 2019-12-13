@@ -1,0 +1,9 @@
+# sample the median from all calls: 5884
+
+get_random_nucleosomes.pl 250 5884 /Volumes/BB_USC_1v2/Nucleosome_aging_project/Nucleosome_analyses_OLD_Mapping/Background_nucleosomes/Cerebellum_H3_nuc_background.bed
+get_random_nucleosomes.pl 250 5884 /Volumes/BB_USC_1v2/Nucleosome_aging_project/Nucleosome_analyses_OLD_Mapping/Background_nucleosomes/Heart_H3_nuc_background.bed
+get_random_nucleosomes.pl 250 5884 /Volumes/BB_USC_1v2/Nucleosome_aging_project/Nucleosome_analyses_OLD_Mapping/Background_nucleosomes/Liver_H3_nuc_background.bed
+get_random_nucleosomes.pl 250 5884 /Volumes/BB_USC_1v2/Nucleosome_aging_project/Nucleosome_analyses_OLD_Mapping/Background_nucleosomes/NPCs_H3_nuc_background.bed
+get_random_nucleosomes.pl 250 5884 /Volumes/BB_USC_1v2/Nucleosome_aging_project/Nucleosome_analyses_OLD_Mapping/Background_nucleosomes/OlfactoryBulb_H3_nuc_background.bed
+
+
