@@ -1,0 +1,25 @@
+OlfactoryBulb
+7950 Gained Nucleosomes
+E1	121
+E10	14
+E2	78
+E3	296
+E4	30
+E5	78
+E6	6861
+E7	85
+E8	363
+E9	24
+
+
+11178 Lost Nucleosomes
+E1	132
+E10	10
+E2	83
+E3	392
+E4	31
+E5	87
+E6	9812
+E7	69
+E8	534
+E9	28

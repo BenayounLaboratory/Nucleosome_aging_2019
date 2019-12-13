@@ -1,0 +1,25 @@
+NPCs
+2458 Gained Nucleosomes
+E1	5
+E10	40
+E2	73
+E3	344
+E4	33
+E5	58
+E6	1752
+E7	64
+E8	26
+E9	63
+
+
+1412 Lost Nucleosomes
+E1	4
+E10	18
+E2	19
+E3	140
+E4	5
+E5	23
+E6	1150
+E7	25
+E8	5
+E9	23

@@ -1,0 +1,6 @@
+batch_HMM_overlaps.pl OlfactoryBulb ../Beds_of_changed_Nucleosomes/consensus/dposREF_OlfactoryBulb_DiNUP_DANPOS_GAINED.bed ../Beds_of_changed_Nucleosomes/consensus/dposREF_OlfactoryBulb_DiNUP_DANPOS_LOST.bed
+batch_HMM_overlaps.pl NPCs ../Beds_of_changed_Nucleosomes/consensus/dposREF_NPCs_DiNUP_DANPOS_GAINED.bed ../Beds_of_changed_Nucleosomes/consensus/dposREF_NPCs_DiNUP_DANPOS_LOST.bed
+batch_HMM_overlaps.pl Liver ../Beds_of_changed_Nucleosomes/consensus/dposREF_Liver_DiNUP_DANPOS_GAINED.bed ../Beds_of_changed_Nucleosomes/consensus/dposREF_Liver_DiNUP_DANPOS_LOST.bed
+batch_HMM_overlaps.pl Heart ../Beds_of_changed_Nucleosomes/consensus/dposREF_Heart_DiNUP_DANPOS_GAINED.bed ../Beds_of_changed_Nucleosomes/consensus/dposREF_Heart_DiNUP_DANPOS_LOST.bed
+batch_HMM_overlaps.pl Cerebellum ../Beds_of_changed_Nucleosomes/consensus/dposREF_Cerebellum_DiNUP_DANPOS_GAINED.bed ../Beds_of_changed_Nucleosomes/consensus/dposREF_Cerebellum_DiNUP_DANPOS_LOST.bed
+

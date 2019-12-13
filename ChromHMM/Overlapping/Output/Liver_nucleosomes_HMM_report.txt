@@ -1,0 +1,25 @@
+Liver
+5759 Gained Nucleosomes
+E1	1544
+E10	88
+E2	10
+E3	415
+E4	492
+E5	112
+E6	2702
+E7	97
+E8	200
+E9	99
+
+
+7777 Lost Nucleosomes
+E1	2625
+E10	93
+E2	14
+E3	393
+E4	451
+E5	150
+E6	3666
+E7	96
+E8	214
+E9	75

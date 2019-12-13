@@ -1,0 +1,20 @@
+Name	PeakFile/Annotation	#features[ref=7950]	Coverage(bp)[ref=1104751]	AvgFeatureSize[ref=138]	Overlap(#peaks)	Overlap(bp)	Expected Overlap(bp, gsize=2.00e+09)	Log Ratio Enrichment	Log P-value(+ underrepresented)	P-value
+rRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/rRNA.ann.txt	71	8762	123	1	140	4	3.56	-3.38	3.42e-02
+pseudo	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/pseudo.ann.txt	1317	657715	499	5	659	363	0.60	-1.31	2.71e-01
+snRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/snRNA.ann.txt	2	219	109	0	0	0	0.00	0.00	9.99e-01
+scRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/scRNA.ann.txt	1	57	57	0	0	0	0.00	-0.00	1.00e+00
+snoRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/snoRNA.ann.txt	145	11012	75	0	0	6	-1.79	0.04	9.57e-01
+miRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/miRNA.ann.txt	1825	193966	106	0	0	107	-4.67	0.78	4.60e-01
+introns	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/introns.ann.txt	354159	961062954	2713	3836	526058	530867	-0.01	1.50	2.22e-01
+utr3	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/utr3.ann.txt	36310	24410721	672	93	11731	13483	-0.14	2.25	1.05e-01
+coding	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/coding.ann.txt	370571	40790183	110	228	19492	22531	-0.14	3.21	4.02e-02
+ncRNA	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/ncRNA.ann.txt	10962	4238589	386	10	1155	2341	-0.71	4.36	1.28e-02
+tts	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/tts.ann.txt	41573	28031611	674	93	11759	15483	-0.28	5.47	4.23e-03
+protein-coding	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/protein-coding.ann.txt	449838	63349162	140	296	29276	34992	-0.18	5.62	3.64e-03
+exons	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/exons.ann.txt	464162	68202392	146	311	31130	37673	-0.19	6.62	1.34e-03
+utr5	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/utr5.ann.txt	57281	5125991	89	11	998	2831	-1.04	7.52	5.41e-04
+promoters	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/promoters.ann.txt	41573	29728924	715	92	11488	16421	-0.36	8.17	2.83e-04
+cpgIsland	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/cpgIsland.ann.txt	16026	10496250	654	5	436	5797	-2.59	32.62	6.80e-15
+centromeres	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/centromeres.ann.txt	21	63000000	3000000	0	0	34799	-10.46	256.29	4.97e-112
+gaps	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/gaps.ann.txt	1011	105419354	104272	0	0	58231	-10.97	433.59	4.94e-189
+intergenic	/Users/benayoun/Softwares/HOMER/.//data/genomes/mm9//annotations/basic/intergenic.ann.txt	18252	1664178045	91177	3870	540345	919251	-0.53	2477.15	0.00e+00

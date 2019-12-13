@@ -1,0 +1,25 @@
+Heart
+3348 Gained Nucleosomes
+E1	8
+E10	55
+E2	126
+E3	350
+E4	17
+E5	101
+E6	2568
+E7	17
+E8	41
+E9	65
+
+
+4032 Lost Nucleosomes
+E1	7
+E10	86
+E2	235
+E3	507
+E4	12
+E5	107
+E6	2879
+E7	36
+E8	55
+E9	108

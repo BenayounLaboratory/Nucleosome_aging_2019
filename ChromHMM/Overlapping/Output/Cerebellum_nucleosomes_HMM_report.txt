@@ -1,0 +1,25 @@
+Cerebellum
+6557 Gained Nucleosomes
+E1	103
+E10	124
+E2	168
+E3	608
+E4	10
+E5	59
+E6	5264
+E7	51
+E8	71
+E9	98
+
+
+6009 Lost Nucleosomes
+E1	77
+E10	49
+E2	142
+E3	445
+E4	10
+E5	52
+E6	5086
+E7	31
+E8	69
+E9	48
