@@ -1,0 +1,11 @@
+File	assembly	Foreground_Name
+OlfactoryBulb_DiNUP_DANPOS_LOST.bed	mm9	OlfactoryBulb_DiNUP_DANPOS_LOST.bed
+OlfactoryBulb_DiNUP_DANPOS_GAINED.bed	mm9	OlfactoryBulb_DiNUP_DANPOS_GAINED.bed
+NPCs_DiNUP_DANPOS_LOST.bed	mm9	NPCs_DiNUP_DANPOS_LOST.bed
+NPCs_DiNUP_DANPOS_GAINED.bed	mm9	NPCs_DiNUP_DANPOS_GAINED.bed
+Liver_DiNUP_DANPOS_LOST.bed	mm9	Liver_DiNUP_DANPOS_LOST.bed
+Liver_DiNUP_DANPOS_GAINED.bed	mm9	Liver_DiNUP_DANPOS_GAINED.bed
+Heart_DiNUP_DANPOS_LOST.bed	mm9	Heart_DiNUP_DANPOS_LOST.bed
+Heart_DiNUP_DANPOS_GAINED.bed	mm9	Heart_DiNUP_DANPOS_GAINED.bed
+Cerebellum_DiNUP_DANPOS_LOST.bed	mm9	Cerebellum_DiNUP_DANPOS_LOST.bed
+Cerebellum_DiNUP_DANPOS_GAINED.bed	mm9	Cerebellum_DiNUP_DANPOS_GAINED.bed
